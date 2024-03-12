@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+
+# pyenv
+bin
+include
+
+*.png
+
+__pycache__
